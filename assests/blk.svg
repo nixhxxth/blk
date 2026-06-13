@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280"
+   height="1280"
+   viewBox="0 0 338.66666 338.66667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="BLK - Copy.svg"
+   inkscape:label="B"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     labelstyle="default"
+     inkscape:clip-to-page="false"
+     inkscape:lockguides="false"
+     showgrid="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="752.36161"
+     inkscape:cy="496.38896"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <g
+         inkscape:label="Clip"
+         id="use4" />
+    </clipPath>
+  </defs>
+  <g
+     id="g6"
+     inkscape:label="BLK">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="K">
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#22d3ee;stroke-width:0"
+         d="m 170.98632,170.01886 139.01597,124.97991 -0.002,-59.99922 -75.00082,-64.9993 75.00087,-70.000968 -10e-4,-59.999777 z"
+         id="path4"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="K" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="L">
+      <path
+         id="path3-8"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#22d3ee;stroke-width:0"
+         d="m 105.37251,44.131607 -30.369326,-19.23226 -5.7e-4,139.990143 24.817938,5.7e-4 80.005058,-3e-4 -33.65618,-30.19316 -40.82387,-8.8e-4 z"
+         transform="matrix(1.8125526,0,0,1.8215563,-20.992476,-5.3879681)"
+         inkscape:label="L"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="B">
+      <path
+         d="m 80.000801,39.997558 -54.999743,0.0016 -0.001,255.002521 54.99871,-0.001 c 0,0 34.565846,1.44897 35.001486,-62.49903 0.43564,-63.94799 -34.995801,-64.99758 -34.995801,-64.99758 0,0 35.486001,-1.41422 34.994241,-65.00379 C 114.50689,38.910656 80.000801,39.997558 80.000801,39.997558 Z"
+         style="fill-rule:evenodd;stroke:#22d3ee;stroke-width:0"
+         id="path1"
+         inkscape:label="B" />
+    </g>
+  </g>
+</svg>
